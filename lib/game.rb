@@ -1,6 +1,3 @@
-require 'rubygems'
-require 'attribute_defaults'
-
 class Game
   attr_accessor :points, :game_step
 

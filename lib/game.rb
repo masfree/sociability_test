@@ -50,4 +50,3 @@ class Game
     @answer == "1" || "2" || "3"
   end
 end
-
